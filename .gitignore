@@ -1,0 +1,6 @@
+*.dll
+.vs/*
+/Lab/obj/Debug/*
+/Lab/bin/Debug/*
+/Lab/obj/Release/*
+/Lab/obj/*
